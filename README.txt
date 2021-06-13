@@ -1,4 +1,4 @@
-#Spaced Repetition Calendar:
+# Spaced Repetition Calendar:
 A terminal run python program which helps keep a track of which subject to study on a given day based on the Spaced Repetition method.
 
 Description:
