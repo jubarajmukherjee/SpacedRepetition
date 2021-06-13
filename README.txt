@@ -1,5 +1,6 @@
 # Spaced Repetition Calendar:
 A terminal run python program which helps keep a track of which subject to study on a given day based on the Spaced Repetition method.
+The final.py file in the sparep calendar folder is the usable code.
 
 Description:
 The program uses a database to store the dates and the topics which has been implemented using sqlite3 library available in python. It also uses plyer module to run the notification system of Windows which helps us to remind the user what to study.
